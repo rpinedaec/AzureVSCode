@@ -1,0 +1,13 @@
+{
+  "passwords": [
+    {
+      "name": "password",
+      "value": "P88+X0ka0QIb1LpqNUq4nQfGngZAKX4O"
+    },
+    {
+      "name": "password2",
+      "value": "2xKsZjDgn/bdM8aqm79SB+vzsK/NCUVc"
+    }
+  ],
+  "username": "appFlaskContainer"
+}
